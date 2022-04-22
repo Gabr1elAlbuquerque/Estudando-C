@@ -6,7 +6,6 @@ int main (void) {
 	char sexo;
 	
 	scanf("%d %c", &idade, &sexo);
-	//printf("idade = %d, sexo = %c", idade, sexo);
 	
 	if(idade == 18 && sexo == 'M'){
 		printf("Está na hora de você se alistar!\n");
