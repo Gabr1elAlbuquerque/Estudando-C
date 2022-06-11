@@ -34,6 +34,8 @@ Tudo que o jogador realizar deve ser salvo e lido quando ele pedir, deve haver a
 5ºAdicionar a função de transferir uma pilha inteira, ou cartas para o local final
 
 6º Fazer uma função que marque o tempo de jogo e classifique o jogador no final baseado no tempo.
+
+### A interface não precisa ser linda, precisamos priorizar o funcionamento do programa
 */
 
 
